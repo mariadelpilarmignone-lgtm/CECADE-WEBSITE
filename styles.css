@@ -1,10 +1,18 @@
 h1{
 	color: #ffffff;
-	font-size: 76px;
+	font-size: 76pt;
 }
 p{
 	color: #ffffff;
-	font-size: 34px;
+	font-size: 19pt;
+}
+h3{
+	color: #ffffff;
+	font-size: 30pt;
+}
+h4{
+	font-size: 76px;
+	color: #ffffff;
 }
 body{
 	background-color: #c5cf9b;
@@ -36,4 +44,7 @@ ul li a{
 	background-repeat: no-repeat;
 	background-size: auto;
 	background-position: center center;
+}
+.facilities{
+
 }
